@@ -14,7 +14,7 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Qwiklabs</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Quicklabs</a>|
-| Incident Response Planninig                    |<a href="https://google.com">Quicklabs</a>
+| Incident Response Planninig                    |<a href="https://github.com/yemisi-cybernate1/Incident-Response-Plan
 | Incident Response Planning and Execution        |<a href="https://google.com">Quicklabs</a>
 | Firewalls & Intrution Detection Systems (IDS/IPS)                |  <a href="https://google.com">Quicklabs</a>|
 | Cybersecurity Tools: Wireshark, Nessus, Metasploit, Kali Linus | <a href="https://google.com">Quicklabs</a> |
@@ -56,4 +56,4 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
   
 ## Projects
 - https://i.imgur.com/Iwhd7Mv.png
-- SOC Automation Project
+- <a href="https://github.com/yemisi-cybernate1/Incident-Response-Plan
