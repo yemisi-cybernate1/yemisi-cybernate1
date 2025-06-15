@@ -55,7 +55,6 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 <img src="https://img.shields.io/badge/-Introduction_to_Microsoft_Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
   
 ## Projects
-- https://i.imgur.com/Iwhd7Mv.png
 - https://github.com/yemisi-cybernate1/Incident-Response-Plan
 - https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
 - 
