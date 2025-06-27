@@ -13,7 +13,7 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Qwiklabs</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Quicklabs</a>|
+| Detection and Response Lab                     | <a href="https://github.com/yemisi-cybernate1/Detection-Lab
 | Incident Response Planninig                    |https://github.com/yemisi-cybernate1/Incident-Response-Plan
 | Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
 | Firewalls & Intrution Detection Systems (IDS/IPS)                |  <a href="https://google.com">Quicklabs</a>|
