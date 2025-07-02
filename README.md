@@ -12,7 +12,7 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Lab        | <a href="https://google.com">Qwiklabs</a>|
+| Python Lab        | <a href=(https://github.com/yemisi-cybernate1/Python_labs)
 | Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-Lab
 | Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan
 | Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
@@ -57,3 +57,6 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 - https://github.com/yemisi-cybernate1/Incident-Response-Plan
 - https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
 - https://github.com/yemisi-cybernate1/Detection-Lab
+- 
+- 
+- 
