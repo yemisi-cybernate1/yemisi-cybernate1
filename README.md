@@ -13,7 +13,7 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python Lab        |https://github.com/yemisi-cybernate1/Python_labs
-| Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-Lab
+| Detection and Response Lab                    |<a href="https://google.com">Quicklabs</a> |
 | Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan
 | Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
 | Cybersecurity Tools: Wireshark, Nessus, Metasploit, Kali Linus | <a href="https://google.com">Quicklabs</a> |
