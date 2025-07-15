@@ -16,7 +16,7 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 | Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-and-Response-Lab
 | Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan
 | Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
-| Cybersecurity Tools: Wireshark, Nessus, Metasploit, Kali Linus | <a href="https://google.com">Quicklabs</a> |
+| Cybersecurity Tools: Wireshark, SIEM; Splunk, Kali Linus | <a href="https://google.com">Quicklabs</a> |
 
 ## Tools
 
