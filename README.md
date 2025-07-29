@@ -23,14 +23,12 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF7139?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Path_Management_Tools-4B275F?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Application_Control_Tools-4B275F?&style=for-the-badge&logo=Windows&logoColor=white" />
 
 
