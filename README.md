@@ -2,12 +2,11 @@
 https://www.linkedin.com/in/yemisi-daodu-832b07341/<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-I am a dedicated cybersecurity graduate with a passion for protecting digital systems and ensuring data security through up-to-date tools and best practices.
+I am an IT professional focused on system support, cloud technologies, and foundational cybersecurity. I showcases hands-on labs and documentation around troubleshooting, cloud enviroments, and security-aware system administration. I enjoy solving technical problems and building sysstems that are both functional and secure.
 
 ## Objective
 
-To obtain a cybersecurity role where I can apply my academic knowledge, analytical skills. and passion for digital security to protect systems and data from emerging threats. I am committed to continious learning, ethical practices, and contributing to a safer digital world.
-
+This GitHub showcases my work in IT support, cloud management, and cybersecurity basics. I focus on practical projects and scripts that demostrate how I solve problems and mantain secure, reliable systems.
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -16,7 +15,7 @@ To obtain a cybersecurity role where I can apply my academic knowledge, analytic
 | Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-and-Response-Lab
 | Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan
 | Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
-| 
+| Vulnerability Management              |
 ## Tools
 
 ### Network
