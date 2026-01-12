@@ -11,11 +11,12 @@ This GitHub showcases my work in IT support, cloud management, and cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Lab        |https://github.com/yemisi-cybernate1/Python_labs
-| Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-and-Response-Lab
-| Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan
-| Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
+| Python Lab        |https://github.com/yemisi-cybernate1/Python_labs|
+| Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-and-Response-Lab|
+| Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan|
+| Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication|
 | Vulnerability Management              |
+
 ## Tools
 
 ### Network
