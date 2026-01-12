@@ -15,7 +15,9 @@ This GitHub showcases my work in IT support, cloud management, and cybersecurity
 | Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-and-Response-Lab|
 | Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan|
 | Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication|
-| Vulnerability Management              |
+| Vulnerability Management              |<a href="https://github.com/Yemisi/linux-ubuntu-vulnerability-scans">Linux Projects</a>
+                                         <a href="https://github.com/Yemisi/linux-ubuntu-vulnerability-scans">Windows Projects</a>
+
 
 ## Tools
 
