@@ -14,8 +14,10 @@ This GitHub showcases my work in IT support, cloud management, and cybersecurity
 | Python Lab        |https://github.com/yemisi-cybernate1/Python_labs|
 | Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-and-Response-Lab|
 | Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan|
-| Communication with Stakeholders       |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication|
-| Vulnerability Management                      | [Windows Vulnerability Scans](https://github.com/yemisi-cybernate1/windows---vulnerability---scans)
+| Communication with Stakeholders               |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication|
+| Window vulnerability scan                     | [Windows Vulnerability Scans](https://github.com/yemisi-cybernate1/windows---vulnerability---scans)
+| Linux vulnerability Scan                      | [Linux Vulnerability Scans](https://github.com/yemisi-cybernate1/linux-vulnerability-scans)
+         
 
 
 
