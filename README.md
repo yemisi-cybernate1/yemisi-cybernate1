@@ -7,19 +7,20 @@ I am an IT professional focused on system support, cloud technologies, and found
 ## Objective
 
 This GitHub showcases my work in IT support, cloud management, and cybersecurity basics. I focus on practical projects and scripts that demostrate how I solve problems and mantain secure, reliable systems.
-## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Python Lab        |https://github.com/yemisi-cybernate1/Python_labs|
-| Detection and Response Lab                    |https://github.com/yemisi-cybernate1/Detection-and-Response-Lab|
-| Incident Response Planninig                   |https://github.com/yemisi-cybernate1/Incident-Response-Plan|
-| Communication with Stakeholders               |https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication|
-| Window vulnerability scan                     | [Windows Vulnerability Scans](https://github.com/yemisi-cybernate1/windows---vulnerability---scans)
-| Linux vulnerability Scan                      | [Linux Vulnerability Scans](https://github.com/yemisi-cybernate1/linux-vulnerability-scans)
-         
+### Skills
 
+## Skills & Projects
 
+| Project / Skill | Description | Link |
+|-----------------|-------------|------|
+| Windows Vulnerability Scans (Tenable.io) | Performed automated vulnerability scans and generated actionable reports. | [View Repo](https://github.com/yemisi-cybernate1/windows---vulnerability---scans) |
+| Linux Vulnerability Scans (Tenable.io) | Conducted security assessments on Linux systems and identified critical risks. | [View Repo](https://github.com/yemisi-cybernate1/linux-vulnerability-scans) |
+| DISA STIG Compliance Lab | Implemented DISA STIG benchmarks and compliance checks. | [View Repo](https://github.com/yemisi-cybernate1/disa-stig-compliance) |
+| Detection and Response Lab | Simulated threat detection and response scenarios to enhance incident readiness. | [View Repo](https://github.com/yemisi-cybernate1/Detection-and-Response-Lab) |
+| Incident Response Plan | Developed a structured plan for handling security incidents effectively. | [View Repo](https://github.com/yemisi-cybernate1/Incident-Response-Plan) |
+| Python Labs | Built scripts and small projects to automate tasks and analyze data. | [View Repo](https://github.com/yemisi-cybernate1/Python_labs) |
+| Effective Stakeholder Communication | Created frameworks for clear reporting and collaboration with stakeholders. | [View Repo](https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication) |
 
 ## Tools
 
@@ -55,7 +56,12 @@ This GitHub showcases my work in IT support, cloud management, and cybersecurity
 <img src="https://img.shields.io/badge/-Introduction_to_Microsoft_Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
   
 ## Projects
-- https://github.com/yemisi-cybernate1/Incident-Response-Plan
-- https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication
-- https://github.com/yemisi-cybernate1/Python_labs
-- https://github.com/yemisi-cybernate1/Detection-and-Response-Lab
+
+- 🖥️ [Windows Vulnerability Scans (Tenable.io)](https://github.com/yemisi-cybernate1/windows---vulnerability---scans)
+- 🐧 [Linux Vulnerability Scans (Tenable.io)](https://github.com/yemisi-cybernate1/linux-vulnerability-scans)
+- 🛡️ [DISA STIG Compliance Lab](https://github.com/yemisi-cybernate1/disa-stig-compliance)
+- 🚨 [Detection and Response Lab](https://github.com/yemisi-cybernate1/Detection-and-Response-Lab)
+- 📄 [Incident Response Plan](https://github.com/yemisi-cybernate1/Incident-Response-Plan)
+- 🐍 [Python Labs](https://github.com/yemisi-cybernate1/Python_labs)
+- 💬 [Effective Stakeholder Communication](https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication)
+
