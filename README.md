@@ -9,18 +9,14 @@ This GitHub serves as a professional portfolio of my work in Vulnerability Manag
 
 ### Skills
 
-## Skills & Projects
-
 | Project / Skill | Description | Link |
-|-----------------|-------------|------|
-| Windows Vulnerability Scans (Tenable.io) | Performed automated vulnerability scans and generated actionable reports. | [View Repo](https://github.com/yemisi-cybernate1/windows---vulnerability---scans) |
-| Linux Vulnerability Scans (Tenable.io) | Conducted security assessments on Linux systems and identified critical risks. | [View Repo](https://github.com/yemisi-cybernate1/linux-vulnerability-scans) |
-| DISA STIG Compliance Lab | Implemented DISA STIG benchmarks and compliance checks. | [View Repo](https://github.com/yemisi-cybernate1/disa-stig-compliance) |
-| Detection and Response Lab | Simulated threat detection and response scenarios to enhance incident readiness. | [View Repo](https://github.com/yemisi-cybernate1/Detection-and-Response-Lab) |
-| Incident Response Plan | Developed a structured plan for handling security incidents effectively. | [View Repo](https://github.com/yemisi-cybernate1/Incident-Response-Plan) |
-| Python Labs | Built scripts and small projects to automate tasks and analyze data. | [View Repo](https://github.com/yemisi-cybernate1/Python_labs) |
-| Effective Stakeholder Communication | Created frameworks for clear reporting and collaboration with stakeholders. | [View Repo](https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication) |
-
+| :--- | :--- | :--- |
+| **Azure Enterprise Security** | Hardening enterprise cloud infrastructure using NSGs, RBAC, and Microsoft Defender for Cloud. | [View Repo](https://github.com/yemisi-cybernate1/Your-Azure-Repo-Name) |
+| **Windows Vulnerability Scans** | Executing authenticated Tenable.io scans and generating executive remediation reports. | [View Repo](https://github.com/yemisi-cybernate1/Your-Windows-Scan-Repo) |
+| **Linux Vulnerability Scans** | Assessing Linux-based enterprise assets for misconfigurations and Critical/High CVEs. | [View Repo](https://github.com/yemisi-cybernate1/Your-Linux-Scan-Repo) |
+| **DISA STIG Compliance Lab** | Automating security benchmarks and compliance auditing for enterprise-grade system hardening. | [View Repo](https://github.com/yemisi-cybernate1/Your-DISA-STIG-Repo) |
+| **Detection and Response Lab** | Engineered custom KQL queries to monitor security logs and validate SOC incident readiness. | [View Repo](https://github.com/yemisi-cybernate1/Your-Detection-Repo) |
+| **Incident Response & Governance** | Developed enterprise-ready IR plans and stakeholder communication frameworks for risk mitigation. | [View Repo](https://github.com/yemisi-cybernate1/Your-IR-Plan-Repo) |
 ## Tools
 
 ### Network
