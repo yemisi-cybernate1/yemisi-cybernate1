@@ -2,11 +2,10 @@
 https://www.linkedin.com/in/yemisi-daodu-832b07341/<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-I am an IT professional focused on system support, cloud technologies, and foundational cybersecurity. I showcases hands-on labs and documentation around troubleshooting, cloud enviroments, and security-aware system administration. I enjoy solving technical problems and building sysstems that are both functional and secure.
+I am a Cybersecurity Analyst at Log(N) Pacific specializing in securing Azure Enterprise infrastructure. My work focuses on bridging the gap between automated threat detection and enterprise-wide vulnerability remediation. I am dedicated to hardening cloud environments and reducing organizational risk through proactive monitoring and rigorous compliance standards.
 
 ## Objective
-
-This GitHub showcases my work in IT support, cloud management, and cybersecurity basics. I focus on practical projects and scripts that demostrate how I solve problems and mantain secure, reliable systems.
+This GitHub serves as a professional portfolio of my work in Vulnerability Management and **Cloud Security Operations. It showcases my ability to deploy enterprise-grade security tools, perform deep-dive log analysis using KQL, and manage the full lifecycle of vulnerability remediation.
 
 ### Skills
 
