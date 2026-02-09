@@ -1,6 +1,16 @@
 # Hello, I'm Yemisi
-https://www.linkedin.com/in/yemisi-daodu-832b07341/<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<div align="center">
+  <h1>🛡️ Yemisi Cybernate</h1>
+  <h3>Cybersecurity Analyst | Azure Enterprise Security | Vulnerability Management</h3>
+  
+  <a href="">https://www.linkedin.com/in/yemisi-daodu-832b07341/
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="yemisidaodu7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 ## Introduction
 I am a Cybersecurity Analyst at Log(N) Pacific specializing in securing Azure Enterprise infrastructure. My work focuses on bridging the gap between automated threat detection and enterprise-wide vulnerability remediation. I am dedicated to hardening cloud environments and reducing organizational risk through proactive monitoring and rigorous compliance standards.
 
@@ -17,46 +27,23 @@ This GitHub serves as a professional portfolio of my work in Vulnerability Manag
 | **Incident Response Planning** | Developing enterprise-grade IR plans and risk mitigation strategies for cloud environments. | [View Repo](https://github.com/yemisi-cybernate1/Incident-Response-Plan) |
 | **Stakeholder Communication** | Frameworks for translating technical vulnerabilities into actionable executive-level reports. | [View Repo](https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication) |
 
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Application_Control_Tools-4B275F?&style=for-the-badge&logo=Windows&logoColor=white" />
-
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk_Enterprise-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk_Cloud-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SOAR-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-    
-
-</div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /><img src="https://img.shields.io/badge/-Create_Chart_Dashboard_using_Microsoft-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Introduction_to_Microsoft_Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
+## 🌐 Network Security & Traffic Analysis
+- **Network Security Groups (NSGs):** Engineering inbound/outbound rules to enforce the Principle of Least Privilege.
+- **Traffic Logging:** Configuring Azure Network Watcher and Flow Logs for visibility into environment connectivity.
+- **Protocol Hardening:** Identifying and disabling insecure protocols (RDP/SSH/Telnet) to reduce attack surfaces.
   
-## Projects
+### 🖥️ Endpoint Security & Monitoring
+- **Host Analysis:** Auditing Windows and Linux endpoint sessions for suspicious behavior or configuration drift.
+- **Hardening Standards:** Applying DISA STIG benchmarks to secure endpoints against session-based attacks.
+- **Telemetry Analysis:** Using KQL to investigate process execution and user activity across the enterprise.
 
-- 🖥️ [Windows Vulnerability Scans (Tenable.io)](https://github.com/yemisi-cybernate1/windows---vulnerability---scans)
-- 🐧 [Linux Vulnerability Scans (Tenable.io)](https://github.com/yemisi-cybernate1/linux-vulnerability-scans)
-- 🛡️ [DISA STIG Compliance Lab](https://github.com/yemisi-cybernate1/disa-stig-compliance)
-- 🚨 [Detection and Response Lab](https://github.com/yemisi-cybernate1/Detection-and-Response-Lab)
-- 📄 [Incident Response Plan](https://github.com/yemisi-cybernate1/Incident-Response-Plan)
-- 🐍 [Python Labs](https://github.com/yemisi-cybernate1/Python_labs)
-- 💬 [Effective Stakeholder Communication](https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication)
-
+### 📊 SIEM Operations & Log Management
+- **Microsoft Sentinel:** Centralizing security telemetry to identify multi-stage attacks across Azure resources.
+- **Log Analytics:** Managing high-volume data ingestion and retention policies for enterprise compliance.
+- **KQL Detection Engineering:** Transforming raw logs into high-fidelity alerts for proactive threat hunting.
+    
+## 📜 Certifications & Professional Development
+- **CompTIA Security+:** In Progress (Expected April 2026).
+- **Azure Security Operations:** Expertise in managing identity, access, and security policies.
+- **Vulnerability Management (Tenable.io):** Proficiency in automated vulnerability scanning and risk assessment.
+- **Threat Hunting with KQL:** Practical application of Kusto Query Language for log analysis.
