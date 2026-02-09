@@ -20,7 +20,7 @@ This GitHub serves as a professional portfolio of my work in Vulnerability Manag
 ### Skills
 | Project / Skill | Description | Link |
 | :--- | :--- | :--- |
-| **Windows Vulnerability Management** | Executing Tenable.io scans and managing remediation lifecycles for Azure Windows assets. | [[View Repo](https://github.com/yemisi-cybernate1/windows-vulnerability-scans) |
+| **Windows Vulnerability Management** | Executing Tenable.io scans and managing remediation lifecycles for Azure Windows assets. | [View Repo](https://github.com/yemisi-cybernate1/windows-vulnerability-scans) |
 | **Linux Vulnerability Management** | Performing Ubuntu vulnerability scans with Tenable.io and hardening via NSG configurations. | [View Repo](https://github.com/yemisi-cybernate1/linux-vulnerability-scans) |
 | **Detection and Response Operations** | Engineering KQL queries to monitor security logs and validate SOC incident readiness. | [View Repo](https://github.com/yemisi-cybernate1/Detection-and-Response-Lab) |
 | **DISA STIG Compliance Lab** | Implementing security benchmarks and compliance auditing for enterprise system hardening. | [View Repo](https://github.com/yemisi-cybernate1/disa-stig-compliance) |
