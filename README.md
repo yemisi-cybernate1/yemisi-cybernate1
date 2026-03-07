@@ -26,6 +26,8 @@ This GitHub serves as a professional portfolio of my work in Vulnerability Manag
 | **DISA STIG Compliance Lab** | Implementing security benchmarks and compliance auditing for enterprise system hardening. | [View Repo](https://github.com/yemisi-cybernate1/disa-stig-compliance) |
 | **Incident Response Planning** | Developing enterprise-grade IR plans and risk mitigation strategies for cloud environments. | [View Repo](https://github.com/yemisi-cybernate1/Incident-Response-Plan) |
 | **Stakeholder Communication** | Frameworks for translating technical vulnerabilities into actionable executive-level reports. | [View Repo](https://github.com/yemisi-cybernate1/Effective-Stakeholder-communication) |
+| **Threat Hunting – TOR Activity Investigation** | Investigating unauthorized TOR browser usage using Microsoft Defender for Endpoint and KQL to analyze endpoint activity and validate suspicious network behavior. | [View Repo](https://github.com/yemisi-cybernate1/threat-hunting-scenario-tor) |
+
 
 ## 🌐 Network Security & Traffic Analysis
 - **Network Security Groups (NSGs):** Engineering inbound/outbound rules to enforce the Principle of Least Privilege.
